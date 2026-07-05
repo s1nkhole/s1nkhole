@@ -27,7 +27,7 @@
   "designation": "Andrey",
   "sector"     : "Russia // meatspace",
   "faculty"    : "Школа 21 [Sber / École 42 protocol]",
-  "trajectory" : "DevOps_Core → Cybersecurity.IB",
+  "trajectory" : "Cybersecurity.IB → DevOps_Core → DevSecOps",
   "objective"  : "Junior Viral Analyst // IoC & Threat Intel",
   "directives" : ["threat_intel", "ioc_analysis", "ctf_forensics"],
   "runtime"    : "learning :: building :: breaking things"
