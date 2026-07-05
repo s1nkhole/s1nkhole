@@ -2,12 +2,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗███╗   ██╗██╗  ██╗██╗  ██╗ ██████╗ ██╗     ███████╗
-██╔══██╗██║████╗  ██║██║ ██╔╝██║  ██║██╔═══██╗██║     ██╔════╝
-██████╔╝██║██╔██╗ ██║█████╔╝ ███████║██║   ██║██║     █████╗
-██╔═══╝ ██║██║╚██╗██║██╔═██╗ ██╔══██║██║   ██║██║     ██╔══╝
-██║     ██║██║ ╚████║██║  ██╗██║  ██║╚██████╔╝███████╗███████╗
-╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+ _____ _       _    _           _      
+/  ___(_)     | |  | |         | |     
+\ `--. _ _ __ | | _| |__   ___ | | ___ 
+ `--. \ | '_ \| |/ /| '_ \ / _ \| |/ _ \
+/\__/ / | | | |   < | | | | (_) | |  __/
+\____/|_|_| |_|_|\_\|_| |_|\___/|_|\___|
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+neural+link+established...;%3E+decrypting+identity+shard...;%3E+access+granted%3A+LEVEL_5_CLEARANCE;%3E+sinkhole+protocol+online+%E2%80%94+rerouting+traffic;%3E+flag_found%400x1337%3A%3AMEM_SEGMENT;%3E+welcome+to+the+grid%2C+operator)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 ---
 
 <!-- WHOAMI -->
-### `▓▓▓ IDENTITY.SYS ▓▓▓`
+![IDENTITY.SYS](https://img.shields.io/badge/IDENTITY.SYS-00f0ff?style=for-the-badge&labelColor=0d1117)
 
 ```json
 {
@@ -37,7 +37,7 @@
 ---
 
 <!-- ARSENAL -->
-### `▓▓▓ ARSENAL.LOADOUT ▓▓▓`
+![ARSENAL.LOADOUT](https://img.shields.io/badge/ARSENAL.LOADOUT-ff00c8?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 ---
 
 <!-- ACTIVE OPS -->
-### `▓▓▓ ACTIVE_PROCESSES ▓▓▓`
+![ACTIVE_PROCESSES](https://img.shields.io/badge/ACTIVE_PROCESSES-00f0ff?style=for-the-badge&labelColor=0d1117)
 
 ```
 PID   NAME              STATUS       DESCRIPTION
@@ -69,7 +69,7 @@ PID   NAME              STATUS       DESCRIPTION
 ---
 
 <!-- THREAT MODEL -->
-### `▓▓▓ TARGETS.CONF ▓▓▓`
+![TARGETS.CONF](https://img.shields.io/badge/TARGETS.CONF-ff00c8?style=for-the-badge&labelColor=0d1117)
 
 ```ini
 [interests]
@@ -83,20 +83,9 @@ drone_systems    = HOBBY_MODE ; FPV sim, racing telemetry
 ---
 
 <!-- STATS -->
-### `▓▓▓ TELEMETRY.FEED ▓▓▓`
+![TELEMETRY.FEED](https://img.shields.io/badge/TELEMETRY.FEED-00f0ff?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=s1nkhole&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00c8&text_color=c9d1d9&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=s1nkhole&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0055ff&icon_color=cc00aa&text_color=1a1a1a&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s1nkhole&show_icons=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s1nkhole&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s1nkhole&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0055ff&text_color=1a1a1a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1nkhole&layout=compact&hide_border=true" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=s1nkhole&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=ff00c8&currStreakLabel=00f0ff" />
@@ -109,7 +98,7 @@ drone_systems    = HOBBY_MODE ; FPV sim, racing telemetry
 ---
 
 <!-- CONTACT -->
-### `▓▓▓ UPLINK.CHANNELS ▓▓▓`
+![UPLINK.CHANNELS](https://img.shields.io/badge/UPLINK.CHANNELS-ff00c8?style=for-the-badge&labelColor=0d1117)
 
 ```
 Login   :: s1nkhole
