@@ -19,7 +19,7 @@
 ---
 
 <!-- WHOAMI -->
-![IDENTITY.SYS](https://img.shields.io/badge/IDENTITY.SYS-FFB800?style=for-the-badge&labelColor=0d1117)
+![IDENTITY.SYS](https://img.shields.io/badge/IDENTITY.SYS-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 ```json
 {
@@ -37,26 +37,26 @@
 ---
 
 <!-- ARSENAL -->
-![ARSENAL.LOADOUT](https://img.shields.io/badge/ARSENAL.LOADOUT-FFB800?style=for-the-badge&labelColor=0d1117)
+![ARSENAL.LOADOUT](https://img.shields.io/badge/ARSENAL.LOADOUT-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-39FF14?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/BASH-9D4EDD?style=for-the-badge&logo=gnu-bash&logoColor=0d1117&labelColor=0d1117)
-![Arch](https://img.shields.io/badge/ARCH_LINUX-39FF14?style=for-the-badge&logo=arch-linux&logoColor=0d1117&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/DOCKER-9D4EDD?style=for-the-badge&logo=docker&logoColor=0d1117&labelColor=0d1117)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=ffffff&labelColor=0d1117)
+![Arch](https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=0d1117)
 
-![Wireshark](https://img.shields.io/badge/WIRESHARK-39FF14?style=for-the-badge&logo=wireshark&logoColor=0d1117&labelColor=0d1117)
-![Kali](https://img.shields.io/badge/KALI_LINUX-9D4EDD?style=for-the-badge&logo=kali-linux&logoColor=0d1117&labelColor=0d1117)
-![Wazuh](https://img.shields.io/badge/WAZUH_SIEM-39FF14?style=for-the-badge&labelColor=0d1117)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-9D4EDD?style=for-the-badge&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff&labelColor=0d1117)
+![Kali](https://img.shields.io/badge/KALI_LINUX-C8102E?style=for-the-badge&logo=kali-linux&logoColor=ffffff&labelColor=0d1117)
+![Wazuh](https://img.shields.io/badge/WAZUH_SIEM-00A9E0?style=for-the-badge&labelColor=0d1117)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-E53935?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
 <!-- ACTIVE OPS -->
-![ACTIVE_PROCESSES](https://img.shields.io/badge/ACTIVE_PROCESSES-FFB800?style=for-the-badge&labelColor=0d1117)
+![ACTIVE_PROCESSES](https://img.shields.io/badge/ACTIVE_PROCESSES-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 ```
 PID   NAME              STATUS       DESCRIPTION
@@ -69,7 +69,7 @@ PID   NAME              STATUS       DESCRIPTION
 ---
 
 <!-- THREAT MODEL -->
-![TARGETS.CONF](https://img.shields.io/badge/TARGETS.CONF-FFB800?style=for-the-badge&labelColor=0d1117)
+![TARGETS.CONF](https://img.shields.io/badge/TARGETS.CONF-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 ```ini
 [interests]
@@ -83,7 +83,7 @@ drone_systems    = HOBBY_MODE ; FPV sim, racing telemetry
 ---
 
 <!-- STATS -->
-![TELEMETRY.FEED](https://img.shields.io/badge/TELEMETRY.FEED-FFB800?style=for-the-badge&labelColor=0d1117)
+![TELEMETRY.FEED](https://img.shields.io/badge/TELEMETRY.FEED-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -98,7 +98,7 @@ drone_systems    = HOBBY_MODE ; FPV sim, racing telemetry
 ---
 
 <!-- CONTACT -->
-![UPLINK.CHANNELS](https://img.shields.io/badge/UPLINK.CHANNELS-FFB800?style=for-the-badge&labelColor=0d1117)
+![UPLINK.CHANNELS](https://img.shields.io/badge/UPLINK.CHANNELS-9D4EDD?style=for-the-badge&labelColor=0d1117)
 
 ```
 Login   :: s1nkhole
